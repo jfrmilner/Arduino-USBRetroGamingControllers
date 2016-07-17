@@ -1,5 +1,6 @@
 /* Super Nintendo Entertainment System (SNES) Controller/Gamepad to USB
  * Auth: John Milner / jfrmilner
+ * Blog Post URL: https://jfrmilner.wordpress.com/2016/07/17/arduino-project-super-nintendo-entertainment-system-snes-controllergamepad-to-windowslinux-retropie-usb/
  * 
  * Version
  * 1.0
