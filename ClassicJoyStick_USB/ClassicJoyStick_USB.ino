@@ -1,3 +1,4 @@
+/* Commodore 64/Amiga, Atari 2600/XL/ST, ZX Spectrum, Amstrad CPC, MSX and many others compatible Joystick to USB
  * Auth: John Milner / jfrmilner
  * 
  * Version
