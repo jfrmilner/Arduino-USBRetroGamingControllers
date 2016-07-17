@@ -1,5 +1,6 @@
 /* Sega Master System (SMS) Control Pad to USB
  * Auth: John Milner / jfrmilner
+ * Blog Post URL: https://jfrmilner.wordpress.com/2016/07/17/arduino-project-sega-master-system-sms-control-pad-to-windowslinux-retropie-usb/
  * 
  * Date
  * July 2016
