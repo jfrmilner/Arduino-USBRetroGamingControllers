@@ -4,10 +4,12 @@
  * Reads buttons presses from Sega Genesis 3/6 button controllers
  * and reports their state via keyboard button presses. Handles hot
  * swapping of controllers and auto-switches between 3 and 6 button
- * polling patterns. - https://jonthysell.com/2014/09/29/sega-genesis-controllers-and-arduino-revisited/
+ * polling patterns.
+ * Blog Post URL: https://jonthysell.com/2014/09/29/sega-genesis-controllers-and-arduino-revisited/
  * 
  * Version: 1.1.1 Date: July/2016 Author: John Milner / jfrmilner
- * Modified to use https://github.com/MHeironimus/ArduinoJoystickLibrary instead of keyboard. 
+ * Modified to use https://github.com/MHeironimus/ArduinoJoystickLibrary instead of keyboard.
+ * Blog Post URL: https://jfrmilner.wordpress.com/2016/07/17/arduino-project-sega-megadrivegenesis-controller-to-windowslinux-retropie-usb/
  * 
  * Hardware
  * ATmega32u4 based Arduino (Arduino Leonardo/Micro)
