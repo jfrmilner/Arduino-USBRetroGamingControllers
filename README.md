@@ -20,7 +20,7 @@ https://jfrmilner.wordpress.com/2016/07/17/arduino-project-super-nintendo-entert
 ---
 
 ## Multijoy Retro Gaming System
-With the above experience, I designed a circuit board and selector system so multiple controllers could all be connected and used on one system. The circuit board acts as a shield for an Arduino Micro that expands the available pins to make this possible. I created a quick demo of me playing popular games on this console with each controller. Check it out by click the below image.. 
+With the above experience, I designed a circuit board and selector system so multiple controllers could all be connected and used on one system. The circuit board acts as a shield for an Arduino Micro that expands the available pins to make this possible. I created a quick demo of me playing popular games on this console with each controller. Check it out by clickjing the below image.. 
 
 youtube video:  
 [![Alt text](https://img.youtube.com/vi/LYXYafwz_CY/0.jpg)](https://www.youtube.com/watch?v=LYXYafwz_CY)
